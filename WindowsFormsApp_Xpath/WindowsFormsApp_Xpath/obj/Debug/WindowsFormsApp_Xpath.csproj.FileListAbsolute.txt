@@ -1,0 +1,12 @@
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\WindowsFormsApp_Xpath.exe.config
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\WindowsFormsApp_Xpath.exe
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\WindowsFormsApp_Xpath.pdb
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.csprojResolveAssemblyReference.cache
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.Form1.resources
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.Properties.Resources.resources
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.csproj.GenerateResource.Cache
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.exe
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\obj\Debug\WindowsFormsApp_Xpath.pdb
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\HtmlAgilityPack.dll
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\HtmlAgilityPack.pdb
+c:\users\aelandas\documents\visual studio 2017\Projects\WindowsFormsApp_Xpath\WindowsFormsApp_Xpath\bin\Debug\HtmlAgilityPack.xml
